@@ -1,0 +1,58 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.3*%
+%TF.CreationDate,2025-08-19T23:17:00+03:00*%
+%TF.ProjectId,Prj 1 - LED Torch,50726a20-3120-42d2-904c-454420546f72,0.1*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.3) date 2025-08-19 23:17:00*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10R,1.800000X1.800000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11C,1.800000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD12R,1.700000X1.700000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD13C,1.700000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD14C,1.400000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,D1,1,K*%
+%TO.N,/LED_Cathode*%
+X98500000Y-116000000D03*
+D11*
+%TO.P,D1,2,A*%
+%TO.N,/LED_anode*%
+X98500000Y-118540000D03*
+%TD*%
+D12*
+%TO.P,SW1,1,A*%
+%TO.N,Net-(SW1A-A)*%
+X117750000Y-114750000D03*
+D13*
+X124250000Y-114750000D03*
+%TO.P,SW1,2,B*%
+%TO.N,/bat_pos*%
+X117750000Y-119250000D03*
+X124250000Y-119250000D03*
+%TD*%
+D14*
+%TO.P,R1,1*%
+%TO.N,Net-(SW1A-A)*%
+X105500000Y-120810000D03*
+%TO.P,R1,2*%
+%TO.N,/LED_anode*%
+X105500000Y-113190000D03*
+%TD*%
+M02*
