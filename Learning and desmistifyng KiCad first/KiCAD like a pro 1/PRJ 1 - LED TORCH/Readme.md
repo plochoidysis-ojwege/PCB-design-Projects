@@ -9,7 +9,7 @@ This is my first project using KiCad. The goal is to design a simple LED torch c
 ## Schematic
 Below is a simple schematic representation of the LED torch circuit:
 
-![Schematic.png](Schematic.png)
+![Schematic.png](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Photos/LED%20Torch%20schematic.png)
 
 From this schematic, I learnt the following features of KiCad:
 - How to set up a new project and configure the environment(including grid settings)
