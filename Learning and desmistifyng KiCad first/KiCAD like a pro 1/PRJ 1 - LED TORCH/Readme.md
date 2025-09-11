@@ -35,6 +35,7 @@ From this layout, I learnt the following features of KiCad:
 - How to define board edges and cutouts
 - How to run DRC(Design rules checks)
 - How to generate [Gerber files](https://github.com/plochoidysis-ojwege/PCB-design-Projects/tree/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Gerber%20files%20for%20this%20project) for manufacturing.
+  
   Below is the design rules check;
   ![DRC](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Photos/DRC-%20success.png)
   
