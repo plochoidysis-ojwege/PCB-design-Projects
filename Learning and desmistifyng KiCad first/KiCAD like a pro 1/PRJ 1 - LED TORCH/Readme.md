@@ -2,10 +2,12 @@
 This is my first project using KiCad. The goal is to design a simple LED torch circuit and overally to learn the basics of KiCad, including schematic capture and PCB layout.
 ## Components
 - 1 x LED
-- 1 x Resistor (220 Ohm)
-- 1 x 9V Battery
+- 1 x Resistor
+- 1 x  Battery
 - 1 x Battery Clip
 - 1 x Switch
+
+
 ## Schematic
 Below is a simple schematic representation of the LED torch circuit:
 
