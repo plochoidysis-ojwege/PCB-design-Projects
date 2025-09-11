@@ -19,6 +19,7 @@ From this schematic, I learnt the following features of KiCad:
 - How to run electrical rules checks (ERC)
 
 The problem and I still haven't figured out is whether the warning about the unplaced unit is something I need to address before moving on to the PCB layout.Is it that big deal. In this case , the sinlge pole switch had unplaced unit B as shown below :
+![ERC](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Photos/ERC-with%20one%20warning.png)
 
 but , it's the beginning and I have time to figure it out.
 
@@ -32,7 +33,10 @@ From this layout, I learnt the following features of KiCad:
 - How to place components on the PCB
 - How to route traces between components
 - How to define board edges and cutouts
-- How to generate [Gerber files](https://github.com/plochoidysis-ojwege/PCB-design-Projects/tree/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Gerber%20files%20for%20this%20project) for manufacturing
+- How to run DRC(Design rules checks)
+- How to generate [Gerber files](https://github.com/plochoidysis-ojwege/PCB-design-Projects/tree/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Gerber%20files%20for%20this%20project) for manufacturing.
+  Below is the design rules check;
+  ![DRC](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Photos/DRC-%20success.png)
   
 The thing I found challenging was the routing process, especially ensuring that all traces were properly connected and that there were no unintentional shorts. Again here I realised their is a minimum distance between traces that I need to adhere to.
 
