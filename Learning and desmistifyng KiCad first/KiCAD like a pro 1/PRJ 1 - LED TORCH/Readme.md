@@ -25,7 +25,7 @@ but , it's the beginning and I have time to figure it out.
 ## PCB Layout
 Below is the PCB layout for the LED torch circuit:
 
-![PCB_layout.png](PCB_layout.png)
+![PCB_layout.png](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Photos/LED%20Torch%20pcb.png)
 
 From this layout, I learnt the following features of KiCad:
 - How to import the schematic into the PCB layout
@@ -37,5 +37,7 @@ The thing I found challenging was the routing process, especially ensuring that 
 
 The PCB layout process was quite intuitive, and I appreciate the visual feedback KiCad provides while routing traces. I still need to learn more about design rules and how to ensure my layout is manufacturable, but I'm excited to continue this journey.
 Below is a 3D view of the PCB layout:
-![3D_view.png](3D_view.png)
+![3D_view.png](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Photos/3D-%20front%20view.png)
+Here is the back view;
+![Back view](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Photos/3D-%20Back%20view.png)
 THE END
