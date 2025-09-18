@@ -20,3 +20,9 @@ A curated list of resources for PCB design and KiCad.
 - [KiCad Discord](https://discord.gg/kicad)
 - [Reddit r/KiCad](https://www.reddit.com/r/KiCad/)
 - [Reddit r/PrintedCircuitBoard](https://www.reddit.com/r/PrintedCircuitBoard/)
+## External component Libraries
+
+- [KiCad Symbol Library Repository](https://kicad.github.io/symbols/) :Frequently updated symbols contributed by the KiCad community.
+- [SnapEDA](https://www.snapeda.com/):a large repository with millions of electronic parts for major CAD software.
+- [Octopart](https://octopart.com/): Complement to SnapEDA for finding symbol and footprint libraries.
+- [Ultralibrarian](https://www.ultralibrarian.com/)
