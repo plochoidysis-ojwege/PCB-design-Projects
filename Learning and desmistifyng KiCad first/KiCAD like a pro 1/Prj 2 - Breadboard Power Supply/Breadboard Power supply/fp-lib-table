@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "digikeyy")(type "KiCad")(uri "E:/Github Projects/Other's repos that caught my eyes/kicad-footprints-master")(options "")(descr "all digikey footprints"))
+)
