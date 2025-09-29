@@ -3362,7 +3362,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x02_Pin"
+		(property "Value" "Conn_01x02_Male"
 			(at 225.298 119.38 0)
 			(effects
 				(font
@@ -3762,7 +3762,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03_Pin"
+		(property "Value" "Conn_01x03_Male"
 			(at 227.076 108.712 0)
 			(effects
 				(font
@@ -3894,7 +3894,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bc8e0ce9-ebf7-4972-89eb-c47307055900")
-		(property "Reference" "J9"
+		(property "Reference" "J6"
 			(at 219.964 60.452 0)
 			(effects
 				(font
@@ -3902,7 +3902,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x02_Pin"
+		(property "Value" "Conn_01x02_Male"
 			(at 225.298 58.42 0)
 			(effects
 				(font
@@ -3946,7 +3946,7 @@
 		(instances
 			(project "Breadboard Power supply"
 				(path "/7da24ccf-657a-48c6-ab85-8efcd1e74a3c"
-					(reference "J9")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -4041,7 +4041,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03_Pin"
+		(property "Value" "Conn_01x03_Male"
 			(at 227.33 46.99 0)
 			(effects
 				(font
