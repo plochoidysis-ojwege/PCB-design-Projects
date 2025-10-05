@@ -50,3 +50,8 @@ The copper fill is so important, here I connected it with the GND net, the board
 
  And I made sure the Design Rules check was clean. You can check it here
  [DRC](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Breadboard%20Power%20supply/DRC.rpt)
+
+ ---
+ I have included the files for this project in this directory-
+
+[Here](https://github.com/plochoidysis-ojwege/PCB-design-Projects/tree/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Breadboard%20Power%20supply)
