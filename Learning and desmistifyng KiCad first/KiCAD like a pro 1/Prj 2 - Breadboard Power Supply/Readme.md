@@ -18,11 +18,11 @@ This is the second project I've done.It was inspired by the project in the book 
  And other things, I already learnt them in other subsequent projects or I'm yet to.
 ## Schematic
 Here is the schematic design, from it ,you can infer the bill of materials:
-![Schematic design](https:/photo)
+![Schematic design](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Photos/Schematic.png)
 
 As you can see,I was unable to use the parts and footprints from the digikey library as used in the Peter's book.But still Im working on that, I'll update the next version.For that reason , this repository has two branches ,the main branch just for the projects as I did them, which may include things I couldnt figure out , and then the master branch containing the corrected versions of the projects.
 
-I made sure the Electrical Rules Check was clean:-[ERC](HTTPS )
+I made sure the Electrical Rules Check was clean:-[ERC](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Breadboard%20Power%20supply/ERC.rpt)
 
  ## PCB Layout 
  At this stage,I learnt a lot and used some of the features for the first time.To me , this is the most crucial part of the PCB design.I learnt the following;
@@ -30,3 +30,17 @@ I made sure the Electrical Rules Check was clean:-[ERC](HTTPS )
  - Using the "lock" feature helped me to avoid unnecessarily moving a footprints to ensure accuracy and precision.In this case , the distance between J6 and J4 needs to fixed during this whole entire process.I only unlocked after the whole process.
  - How to use copper fills and their importance.I created a 
 copper fill in the bottom copper layer and connected it to the GND net.This resulted in a fully routed board. Even though I had fully routed the footprints including the grounds , even if I  didn't route the grounds, using copper fills and connecting it to the GND generally results into a fully routed board.
+---
+Below is the PCB Layout;
+This is how it looked before the copper fills , you can see I used the vias.
+
+![PCB front view](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Photos/front%20view-b4%20copper%20fill.png)
+
+---
+The bottom view ,the vias makes it easier to connect the two routes as you can see.
+![PCB bottom view](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Photos/back%20view-b4%20copper%20fill.png)
+
+---
+The copper fill is so important, here I connected it with the GND net, the board was complete as shown;
+
+![PCB after the routing complete](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Photos/after%20the%20hatch(copper%20fill%20the%20bottom).png)
