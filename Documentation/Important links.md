@@ -14,7 +14,7 @@ A curated list of resources for PCB design and KiCad.
 ## Reference
 - [PCB Design Guidelines](https://www.ti.com/lit/an/szza009/szza009.pdf)
 - [KiCad Libraries](https://kicad.github.io/footprints/)
-
+-[Online gerber viewer](www.gerber-viewer.com/Viewer)-a place to view gerber files online
 ## Community
 - [KiCad Forum](https://forum.kicad.info/)
 - [KiCad Discord](https://discord.gg/kicad)

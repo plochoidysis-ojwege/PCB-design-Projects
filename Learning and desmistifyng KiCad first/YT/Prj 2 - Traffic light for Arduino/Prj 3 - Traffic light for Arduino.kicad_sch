@@ -806,10 +806,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "190a543d-7ed1-4aac-a230-5f3656b4180c")
 		(property "Reference" "R3"
-			(at 161.29 60.96 90)
+			(at 161.036 65.278 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -817,7 +816,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 161.29 63.5 90)
+			(at 161.798 70.866 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -874,10 +873,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1bbac948-9a2b-42d2-b88f-7adf30412704")
 		(property "Reference" "D3"
-			(at 183.1975 59.69 0)
+			(at 181.356 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -885,7 +883,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 183.1975 62.23 0)
+			(at 181.356 70.358 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1079,10 +1077,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "43289e02-0a8d-4562-8280-686f19baca86")
 		(property "Reference" "D2"
-			(at 183.1975 52.07 0)
+			(at 181.864 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1090,7 +1087,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 183.1975 54.61 0)
+			(at 182.372 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1156,10 +1153,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4aea9a13-ba7e-4098-8087-d5981c99d2f0")
 		(property "Reference" "R2"
-			(at 161.29 53.34 90)
+			(at 161.036 57.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1167,7 +1163,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 161.29 55.88 90)
+			(at 161.29 61.976 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1224,10 +1220,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8aa55d4d-fd4b-4ca6-8c9e-813075e7c15a")
 		(property "Reference" "D1"
-			(at 183.1975 44.45 0)
+			(at 181.61 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1235,7 +1230,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 183.1975 46.99 0)
+			(at 181.356 54.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1429,10 +1424,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c017b86f-f10d-4cc9-8cc2-d313e0f3e01b")
 		(property "Reference" "R1"
-			(at 161.29 45.72 90)
+			(at 161.544 49.784 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1440,7 +1434,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 161.29 48.26 90)
+			(at 161.29 54.356 90)
 			(effects
 				(font
 					(size 1.27 1.27)
