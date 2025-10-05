@@ -48,4 +48,8 @@ Below is a 3D view of the PCB layout:
 ![3D_view.png](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Photos/3D-%20front%20view.png)
 Here is the back view;
 ![Back view](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files/Photos/3D-%20Back%20view.png)
+I have included the files for this project -
+[HERE](https://github.com/plochoidysis-ojwege/PCB-design-Projects/tree/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/PRJ%201%20-%20LED%20TORCH/Prj%201%20-%20LED%20%20files)
+
+---
 THE END
