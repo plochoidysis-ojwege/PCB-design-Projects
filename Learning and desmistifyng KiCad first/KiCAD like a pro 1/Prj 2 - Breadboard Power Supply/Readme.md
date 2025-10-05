@@ -44,3 +44,9 @@ The bottom view ,the vias makes it easier to connect the two routes as you can s
 The copper fill is so important, here I connected it with the GND net, the board was complete as shown;
 
 ![PCB after the routing complete](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Photos/after%20the%20hatch(copper%20fill%20the%20bottom).png)
+ And in 3D ;
+
+ ![3D after hatch](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Photos/back%20view%203D%20%20after%20copper%20fill.png)
+
+ And I made sure the Design Rules check was clean. You can check it here
+ [DRC](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Breadboard%20Power%20supply/DRC.rpt)
