@@ -2,8 +2,11 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 066bd0c3-4dfd-48ed-b2e4-9e0f1e1ee97e)
+	(uuid "066bd0c3-4dfd-48ed-b2e4-9e0f1e1ee97e")
 	(paper "A4")
+	(title_block
+		(title "ESP32  sensor board-Root")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
