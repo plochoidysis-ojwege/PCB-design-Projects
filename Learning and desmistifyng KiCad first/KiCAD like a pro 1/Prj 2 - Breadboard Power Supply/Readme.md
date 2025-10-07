@@ -16,6 +16,10 @@ This is the second project I've done.It was inspired by the project in the book 
  - How to use copper fills and their importance.
 
  And other things, I already learnt them in other subsequent projects or I'm yet to.
+ ## Bill of Materials
+ Here is the generated B.O.M
+ ![B.O.M](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Breadboard%20Power%20supply/bom/the%20generated%20B.O.M.png)
+ This was not the bill of materials used in KiCad like a pro,I used my own switch instead of the digikey one used in the book.And also assigned a footprint that is compartible as you can see.
 ## Schematic
 Here is the schematic design, from it ,you can infer the bill of materials:
 ![Schematic design](https://github.com/plochoidysis-ojwege/PCB-design-Projects/blob/main/Learning%20and%20desmistifyng%20KiCad%20first/KiCAD%20like%20a%20pro%201/Prj%202%20-%20Breadboard%20Power%20Supply/Photos/Schematic.png)
