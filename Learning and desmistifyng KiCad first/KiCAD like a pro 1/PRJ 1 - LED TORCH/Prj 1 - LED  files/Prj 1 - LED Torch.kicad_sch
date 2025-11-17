@@ -828,6 +828,7 @@
 			(stroke
 				(width 0)
 				(type dash)
+				(color 0 0 0 1)
 			)
 			(fill
 				(type none)
